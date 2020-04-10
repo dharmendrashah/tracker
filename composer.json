@@ -41,7 +41,7 @@
 
     "autoload": {
         "psr-4": {
-            "PragmaRX\\Tracker\\": "src/"
+            "dharmendrashah\\Tracker\\": "src/"
         }
     },
 
@@ -51,10 +51,10 @@
         },
         "laravel": {
             "providers": [
-               "PragmaRX\\Tracker\\Vendor\\Laravel\\ServiceProvider"
+               "dharmendrashah\\Tracker\\Vendor\\Laravel\\ServiceProvider"
             ],
             "aliases": {
-                "Tracker": "PragmaRX\\Tracker\\Vendor\\Laravel\\Facade"
+                "Tracker": "dharmendrashah\\Tracker\\Vendor\\Laravel\\Facade"
             }
         }
     },
