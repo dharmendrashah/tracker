@@ -5,8 +5,7 @@
 
     "keywords": ["tracker", "tracking", "visitor", "logging", "user agent", "mobile detection", "laravel", "pragmarx"],
 
-    "license": "SSC",
-    "License Description": "Self signed certificate",
+    "license": "MIT",
 
     "authors": [
         {
